@@ -1,5 +1,5 @@
 {
-  "name": "@xin/stylelint-config",
+  "name": "@hx23/stylelint-config",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "hx23",
   "license": "ISC",
   "dependencies": {
     "stylelint": "^14.9.1",
